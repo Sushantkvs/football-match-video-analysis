@@ -115,7 +115,7 @@ Distributed under the MIT License. See `LICENSE` for more details.
 
 ## 👨‍💻 Author
 
-**Sushant Kumar **  
+**Sushant Kumar**  
 
 ---
 
