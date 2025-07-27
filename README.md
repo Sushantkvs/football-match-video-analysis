@@ -115,8 +115,7 @@ Distributed under the MIT License. See `LICENSE` for more details.
 
 ## 👨‍💻 Author
 
-**Keshav Prasad**  
-[LinkedIn](https://linkedin.com/in/keshavprasad1017)
+**Sushant Kumar **  
 
 ---
 
